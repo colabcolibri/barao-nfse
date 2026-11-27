@@ -1,0 +1,8 @@
+node_modules/
+data/
+*.p12
+*.pfx
+.master.key
+.env
+.DS_Store
+*.log
